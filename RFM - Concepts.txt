@@ -1,0 +1,26 @@
+What is RFM analysis?
+
+Recency, frequency, monetary value (RFM) is a model used in marketing analysis that segments a company’s consumer base by their purchasing patterns or habits. It is a way to use data based on existing customer behavior to predict how a new customer is likely to act in the future.
+In particular, it evaluates customers’ 
+	Recency (how long ago they made a purchase) 
+	frequency (how often they make purchases) 
+	monetary value (how much money they spend)
+RFM analysis confirms Pareto Principle - the idea that 80% of sales comes from 20% of brand's customers.
+
+
+What is the need for RFM analysis?
+1. Customer segmentation: RFM analysis enables marketers to increase revenue by targeting specific groups of existing customers (i.e., customer segmentation) with messages and offers that are more likely to be relevant based on data about a particular set of behaviors.
+
+2. Targeted marketing: RFM analysis enables you to target customers with messages that best match their relationship with your brand. For example, you are likely to have more success suggesting big-ticket items to customers who spend frequently and in large amounts. On the other hand, you are more likely to grow the customer value of your relationships with consumers who make purchases frequently, but only in small amounts, by rewarding them for their loyalty or offering referral promotions.
+
+3. It also leads to increased Response rates, customer retention, customer satisfaction and customer lifetime value (CLTV)
+
+4. To predict customer behaviour: RFM metrics has been shown to be effective in predicting future customer behavior and increasing revenue. Customers who have made a purchase in the recent past are more likely to do so in the near future. Those who interact with your brand more frequently are more likely to do so again soon. And those who have spent the most are more likely to be big spenders going forward.
+
+
+
+
+
+
+Sources:
+https://www.actioniq.com/blog/what-is-rfm-analysis/#:~:text=The%20%E2%80%9CRFM%E2%80%9D%20in%20RFM%20analysis,to%20act%20in%20the%20future.

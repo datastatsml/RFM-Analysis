@@ -1,0 +1,25 @@
+Exploratory Data Analysis:
+
+1. Which are the top 3 product lines
+Insight: Classic cars, vintage cars and Motorcycles are the top 3 product lines
+
+
+2. Distribution of sales by year
+Insight: Sales peaked in 2004 and suddenly declined in 2005?
+
+
+3. What might be the reason for the decline of sales in 2005?
+Insight: The reason for decline in sales is because the company only operated for first 5 months 
+
+
+4. Distribution of sales by deal size
+Insight: Medium size deals generate disproportionately large sales compared to small and large deal sizes.
+
+
+5. what was the best month for sales in a specific year?
+Insight: November has the highest sales in 2003 and 2004.
+
+
+6. why does november has the highest sales? what productline was sold the most in the month of november?
+Insight: Classic cars has the highest sales. Hence it is possible that Classic cars were sold the highest in the month of nov
+Insight: Classic cars were sold the highest in the month of november because of which the total reveue increased exponentially in Nov
